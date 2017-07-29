@@ -1,0 +1,3 @@
+<div class="jumbotron">
+  <h2>Current page is <%= @page %></h2>
+</div>
